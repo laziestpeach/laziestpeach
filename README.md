@@ -6,9 +6,6 @@
 </p>
 <br />
 <br />
-<br />
-<br />
-<br />
 <div id="badges" align="center">
   <a href="https://twitch.tv/LaziestPeach">
     <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
