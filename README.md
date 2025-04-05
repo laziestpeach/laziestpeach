@@ -5,7 +5,6 @@
 ตอนนี้กำลังค่อย ๆ เรียนรู้ไปทีละนิด พร้อมกับสร้างของเล่นเล็ก ๆ ที่ (หวังว่า) จะใช้งานได้ 😅
 </p>
 <br />
-<br />
 <div id="badges" align="center">
   <a href="https://twitch.tv/LaziestPeach">
     <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
